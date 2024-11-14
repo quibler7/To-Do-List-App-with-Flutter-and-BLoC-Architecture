@@ -15,8 +15,7 @@ This app allows users to add, check, uncheck and delete tasks, with data stored 
 1. **Clone the repository**:
 
 ```
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name](https://github.com/quibler7/To-Do-List-App-with-Flutter-and-BLoC-Architecture
+git clone https://github.com/quibler7/To-Do-List-App-with-Flutter-and-BLoC-Architecture
 ```
 
 3. Install dependencies:
