@@ -13,13 +13,13 @@ This app allows users to add, check, uncheck and delete tasks, with data stored 
 
 
 1. **Clone the repository**:
-   
-   ```
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name](https://github.com/quibler7/To-Do-List-App-with-Flutter-and-BLoC-Architecture
-   ```
 
-2. Install dependencies:
+```
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name](https://github.com/quibler7/To-Do-List-App-with-Flutter-and-BLoC-Architecture
+```
+
+3. Install dependencies:
 
 ```
 flutter pub get
@@ -33,12 +33,12 @@ flutter run
 
 ## 📂 Folder Structure:
 
-data/: Manages database interactions.
-domain/: Holds core functionality and models.
-presentation/: Contains the UI components and BLoC files.
+- data/: Manages database interactions.
+- domain/: Holds core functionality and models.
+- presentation/: Contains the UI components and BLoC files.
 
 ## 📚 Tech Stack:
 
-Flutter: For building the user interface.
-BLoC: For managing application state.
-Isar: Local database to persist user data.
+- `Flutter`: For building the user interface.
+- `BLoC`: For managing application state.
+- `Isar`: Local database to persist user data.
